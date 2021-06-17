@@ -1,1 +1,1 @@
-Hello everyone my name is Zandy and I am a Engineer, Ethical Hacker, and programmer that works on cool projects. I program in Linux, Python, C++, and Perl 
+Coding Langauges: Linux, Python, C++, Perl, Fortran, and Java. 
