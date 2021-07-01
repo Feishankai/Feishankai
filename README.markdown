@@ -1,1 +1,1 @@
-Coding Langauges: Linux, Python, C++, Perl, Fortran, Java, and C.  
+Coding Langauges: Linux, Python, C++, Fortran, Java, and C.  
