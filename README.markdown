@@ -1,10 +1,9 @@
-
 <p align="left">Welcome to the epicenter of logic and creativity, where code is not merely written but architected for robustness, efficiency, and scalability.</p>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif"  />
+  <img height="200" src="https://media.giphy.com/media/67UogLgzSwn0A/giphy.gif"  />
 </div>
 
 ###
