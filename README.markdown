@@ -1,4 +1,4 @@
-Coding Langauges: Linux, Python, C++, C, Viking PME
+
 <p align="left">Welcome to the epicenter of logic and creativity, where code is not merely written but architected for robustness, efficiency, and scalability.</p>
 
 ###
