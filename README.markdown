@@ -33,7 +33,6 @@
 
 Send Me BTC: 1w9R2SiZHo79vvN4XJqpMhT8mSuccAx1E
 
-<img src="https://raw.githubusercontent.com/Feishankai/Feishankai/output/snake.svg" alt="Snake animation" />
 
 ###
 
