@@ -29,12 +29,7 @@
 </div>
 
 
-###
 
-Send Me BTC: 1w9R2SiZHo79vvN4XJqpMhT8mSuccAx1E
-
-
-###
 
 
 <div align="center">
